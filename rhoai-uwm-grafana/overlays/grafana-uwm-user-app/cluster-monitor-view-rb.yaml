@@ -9,4 +9,4 @@ roleRef:
 subjects:
   - kind: ServiceAccount
     name: grafana-sa
-    namespace: patch-me
+    namespace: document-chat

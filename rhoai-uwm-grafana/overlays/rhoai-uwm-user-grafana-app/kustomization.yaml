@@ -6,8 +6,8 @@ namespace: user-grafana
 
 resources:
   - ../grafana-uwm-user-app
-  - namespace.yaml
-  - operator-group.yaml
+ # - namespace.yaml
+ # - operator-group.yaml
   - grafana-folder.yaml
   - grafana-vllm-dashboard.yaml
   - grafana-ovms-dashboard.yaml

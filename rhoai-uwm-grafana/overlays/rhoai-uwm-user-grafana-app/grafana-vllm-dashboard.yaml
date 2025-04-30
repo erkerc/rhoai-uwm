@@ -1497,8 +1497,8 @@ spec:
           {
             "current": {
               "selected": false,
-              "text": "granite-3b",
-              "value": "granite-3b"
+              "text": "granite32-8b",
+              "value": "granite32-8b"
             },
             "datasource": {
               "type": "prometheus",
